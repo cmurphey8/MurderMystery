@@ -1,0 +1,13 @@
+3
+Who was the murderer?
+How many items spawned total? 
+How many rooms were there in the mansion?
+6
+TIME,PLAYER,DEATH
+ROOM,PLAYER,DEATH
+ROOM,ITEM,DROP
+ROOM,ITEM,GRAB
+TIME,ITEM,DROP
+PLAYER,TIME,DROP
+1
+What line number in Mansion.java returns false if the murderer wins?
